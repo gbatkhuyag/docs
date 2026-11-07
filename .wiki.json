@@ -1,6 +1,5 @@
 {
   "sidebar": [
-    "introduction.md",
     { "label": "introduction", "items": ["introduction/introduction.md"] },
   ]
 }
