@@ -1,6 +1,0 @@
-# Sidebar order for the Frappe Wiki docs. GitHub Sync reads this file; only the pages listed here are synced.
-sidebar:
-  - label: Introduction
-    slug: introduction
-    items:
-      - introduction/introduction.md
