@@ -1,5 +1,5 @@
 sidebar:
   - label: Танилцуулга
-    slug: introduction
+    slug: танилцуулга
     items:
       - introduction/introduction.md
